@@ -1,5 +1,5 @@
 {
-    "name": "topsdk/topapi",
+    "name": "codephix/aliexpress",
     "description": "topapi php sdk",
     "type": "library",
     "autoload": {
